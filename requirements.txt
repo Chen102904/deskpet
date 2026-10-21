@@ -1,0 +1,2 @@
+# 运行桌宠只需要这一个依赖（不要装完整的 PySide6，Essentials 就够，能省一半体积）
+PySide6-Essentials==6.12.0

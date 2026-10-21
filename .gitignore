@@ -1,0 +1,40 @@
+# ---------- 打包产物 ----------
+build/
+dist/
+*.spec
+!WhiteLacePet.spec
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+
+# ---------- 运行时生成 ----------
+config.json
+*.log
+
+# ---------- 音乐：有版权，不进仓库 ----------
+# 想用「哈基米形态」放歌，自己往 music/ 里丢 mp3 即可
+music/*.mp3
+music/*.wav
+music/*.m4a
+music/*.flac
+music/*.ogg
+
+# ---------- 本地调试残留 ----------
+_ck*.jpg
+_chk*.jpg
+_wm_*.png
+*.bak
+*.tmp
+*.orig
+
+# ---------- 操作系统 ----------
+.DS_Store
+Thumbs.db
+desktop.ini
