@@ -26,6 +26,9 @@ music/*.m4a
 music/*.flac
 music/*.ogg
 
+# ---------- 本机一次性工具 ----------
+push_to_github.bat
+
 # ---------- 本地调试残留 ----------
 _ck*.jpg
 _chk*.jpg
