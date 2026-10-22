@@ -57,7 +57,7 @@ Windows 10 / 11 · Python 3.10+ · MIT License
 ### 方式二：从源码跑
 
 ```bash
-git clone https://github.com/<your-name>/deskpet.git
+git clone https://github.com/Chen102904/deskpet.git
 cd deskpet
 
 # 建议用虚拟环境，别装到系统 Python 里
